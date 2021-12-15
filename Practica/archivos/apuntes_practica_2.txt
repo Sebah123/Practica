@@ -1,0 +1,62 @@
+- usar numero de serie reemplazando codigo de barras
+
+- en licencia, colocar un combobox desplazando un text para colocar el codigo de licencia. IMPORTANTE
+
+- tipo_tecno --> si es analogo o ip
+
+- estado solamente puede estar en --> 	activo
+					inactivo
+					de baja
+
+- al registrar un equipo en la web, generar una QR para dicho equipo
+
+- para telefono y ups, lo mismo que en equipo
+
+
+
+
+
+05/11/2021
+
+- en caso de farmacias, por ej, hay más telefonos y ups
+
+- colocar sha2 a pass
+
+
+- Soporte lvl 1, Soporte lvl 2  
+
+- Tecnicos /no acceso a gestion usuario
+
+- Ingenieros 
+
+- Reportería /no acceso a gestion usuario
+
+
+------------
+
+
+- No puede ingresar al sistema.
+- "Por favor, subir su tichet para activación de cuenta"
+
+
+
+
+
+29-11-2021
+
+
+-  NUEVO --> Filtro para los equipos, ups y telefono por cesfam EJEMPLO --> (colocar "cesfam 1" y que aparezcan solo los de cesfam 1)
+
+- arreglar edits y updates
+
+- LOGIN / olvidar contraseña / validar que el rut exista
+
+- LOGIN / registrarse / validar que los ruts no se repitan
+
+- colocar datos correctamente en los campos --> ejemplo -> en el campo rut, solo numeros, excepcion la K
+
+- formato rut // PRIORIDAD BAJA POR AHORA - por temas de tiempo
+
+- validar que usuario entra.
+
+- CON TODOS LOS CREAR --> al momento de ir a una pestaña aparte, que los datos se guarden temporalmente si es que hay. // IMPORTANTE

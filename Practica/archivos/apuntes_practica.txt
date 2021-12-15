@@ -1,0 +1,20 @@
+requerimiento principal -> 	crear una pagina de registro de computadores
+				
+la division salud administra aprox. establecimientos fisicos 11 o 12 pero hay establecimientos que tienen más de un más de centro de costo , urgencia y de centro de salud
+
+
+
+urgencia y parte de centro de salud
+dependencias fisicas se dividen por sectores, numero de box
+
+
+1 box con 4 pc (más pc)
+numero de serie
+modelo
+marca
+
+cormun
+600 puestos (notebook, ops, telefono, computadores, impresoras, licencias, producto inventariado, fecha de compra, fecha de alta, alguna observación.)
+
+centros de salud, sectores, numero de box 
+
